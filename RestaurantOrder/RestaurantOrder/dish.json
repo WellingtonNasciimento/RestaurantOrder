@@ -1,0 +1,27 @@
+﻿{
+  "type": [
+    {
+      "code": "1",
+      "name": "entrée",
+      "morning": "eggs",
+      "night": "steak"
+    },
+    {
+      "code": "2",
+      "name": "side",
+      "morning": "toast",
+      "night": "potato"
+    },
+    {
+      "code": "3",
+      "name": "drink",
+      "morning": "coffee",
+      "night": "wine"
+    },
+    {
+      "code": "4",
+      "name": "drink",
+      "night": "cake"
+    }
+  ] 
+}

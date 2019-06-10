@@ -1,0 +1,7 @@
+C:\Users\welli\onedrive\documents\visual studio 2015\Projects\RestaurantOrder\RestaurantOrder\bin\Debug\RestaurantOrder.exe.config
+C:\Users\welli\onedrive\documents\visual studio 2015\Projects\RestaurantOrder\RestaurantOrder\bin\Debug\RestaurantOrder.exe
+C:\Users\welli\onedrive\documents\visual studio 2015\Projects\RestaurantOrder\RestaurantOrder\bin\Debug\RestaurantOrder.pdb
+C:\Users\welli\onedrive\documents\visual studio 2015\Projects\RestaurantOrder\RestaurantOrder\bin\Debug\Newtonsoft.Json.dll
+C:\Users\welli\onedrive\documents\visual studio 2015\Projects\RestaurantOrder\RestaurantOrder\bin\Debug\Newtonsoft.Json.xml
+C:\Users\welli\onedrive\documents\visual studio 2015\Projects\RestaurantOrder\RestaurantOrder\obj\Debug\RestaurantOrder.exe
+C:\Users\welli\onedrive\documents\visual studio 2015\Projects\RestaurantOrder\RestaurantOrder\obj\Debug\RestaurantOrder.pdb
